@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.header
+{
+  height: 130px;
+  width: 1230px;
+}
+
+
+.APP{
+  text-align: center;
+}
+
+.border-radius-9{
+  border-radius: 9px;
+  }
